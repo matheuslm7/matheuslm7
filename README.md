@@ -18,10 +18,10 @@ public class MatheusLimaSkills
     public string Username => "matheuslm7";
     public string Name => "Matheus Lima";
     public string[] Roles => new[] { "Software Developer", "Backend (.NET)", "C#" };
-    public string[] Code => new[] { "C#", ".NET", "Ruby on Rails", "Node.js", "Python", "JavaScript", "TypeScript", "SQL" };
+    public string[] Code => new[] { "C#", ".NET", "Ruby on Rails", "Node.js", "Python", "JavaScript", "TypeScript" };
     public string[] Frontend => new[] { "React", "React Native", "Next.js", "TailwindCSS" };
-    public string[] Tools => new[] { "Git", "Firebase", "Vercel", "Expo", "OpenSSL", "REST APIs" };
-    public string[] Database => new[] { "SQL Server", "Firebase", "MySQL" };
+    public string[] Tools => new[] { "Git", "Firebase", "Vercel", "Expo", "OpenSSL", "REST APIs", "Docker" };
+    public string[] Database => new[] { "SQL Server", "MySQL", "PostgreSQL", "SQLite", "MongoDB" };
     public string[] Languages => new[] { "Portuguese (Native)", "English (Intermediate)", "Spanish (Basic)" };
     public string[] CurrentlyLearning => new[] { "Software Architecture", "Automated Testing", "Entity Framework", "Clean Architecture" };
     
