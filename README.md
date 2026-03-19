@@ -1,24 +1,43 @@
-# Matheus Lima 🇧🇷
+<div align="center">
 
-> **Full-Stack Developer** with a background in finance & business operations.  
-> I don't just write code — I build solutions that solve real problems and generate measurable impact.
+# Matheus Lima
+
+### Full-Stack Developer · Finance & Business Background
+
+*I don't just write code — I build solutions that solve real problems and generate measurable impact.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslm7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdlima21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuslm7)
+
+</div>
 
 ---
 
-## 💼 Currently
+## 👨‍💻 About me
 
-**Desenvolvedor Full Stack @ [Grupo Hi S/A](https://www.linkedin.com/company/grupohisa)**  
-Working across frontend & backend — React, Next.js, React Native, Electron, Ruby on Rails, PostgreSQL.  
-Clean code · RSpec · CI/CD with GitLab · Business-driven development.
+I'm a Full-Stack Developer currently working at **Grupo Hi S/A**, building internal systems and customer-facing applications across backend and frontend.
+
+What sets me apart: before becoming a developer, I spent years working in **finance and business operations** — which means I understand the business impact behind every feature I ship. I don't just implement requirements, I question whether they're the right ones.
+
+- 🏢 **Currently:** Full-Stack Developer @ Grupo Hi S/A — Rails · Next.js · React Native · Electron
+- 🎓 **Studying:** B.S. in Software Engineering — Gran Faculdade (2025–2029)
+- 📍 **Based in:** João Pessoa, Brazil — open to remote and relocation
+- 🌎 **Goal:** International and national opportunities in backend & full-stack roles
 
 ---
 
-## 🚀 Highlights
+## 🏆 Impact Highlights
 
-- 🏆 **4x winner of the PIT** (Programa de Ideias que Transformam) at Grupo Hi — awarded for 5 internal systems that automated critical financial processes
-- ⚙️ Built **HiFolha, HiConcilia, HiCNPJ, HiPagar, HiBB** — integrating internal platforms with external APIs (Omie, Banco do Brasil)
-- 💰 Reduced operational costs by **~90%** at a healthcare clinic by automating medical billing through a custom XML-based system — eliminating outsourcing entirely
-- 🤖 Built a bot capable of processing **300+ medical records per cycle** with accuracy and speed
+> Numbers speak louder than job titles.
+
+| | |
+|---|---|
+| 🥇 **4x PIT Award winner** | Internal innovation program at Grupo Hi — recognized across 5 projects |
+| ⚙️ **5 internal systems built** | HiFolha · HiConcilia · HiCNPJ · HiPagar · HiBB — automating critical financial workflows |
+| 🔗 **External API integrations** | Omie ERP · Banco do Brasil — increasing data consistency and eliminating rework |
+| 💰 **~90% cost reduction** | Automated medical billing at a healthcare clinic via custom XML system, removing outsourcing entirely |
+| 🤖 **300+ records/cycle** | Bot built to process high-volume medical records with precision and speed |
 
 ---
 
@@ -39,42 +58,37 @@ Clean code · RSpec · CI/CD with GitLab · Business-driven development.
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & DevOps
+### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Studying
+### Currently Expanding
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
-## 🎓 Education
-
-- 🖥️ **B.S. in Software Engineering** — Gran Faculdade (2025–2029)
-- 📊 **B.S. in Business Administration** — Faculdade Internacional da Paraíba (2023–2027)
-
----
-
 ## 🌎 Languages
 
-🇧🇷 Portuguese — Native &nbsp;|&nbsp; 🇺🇸 English — Intermediate &nbsp;|&nbsp; 🇪🇸 Spanish — Basic
+| Language | Level |
+|---|---|
+| 🇧🇷 Portuguese | Native |
+| 🇺🇸 English | Intermediate |
+| 🇪🇸 Spanish | Basic |
 
 ---
 
-## 📬 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslm7/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdlima21@gmail.com)
-
----
+<div align="center">
 
 *clean code · real impact · business-driven development.*
+
+</div>
