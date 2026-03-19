@@ -33,7 +33,7 @@ What sets me apart: before becoming a developer, I spent years working in **fina
 
 | | |
 |---|---|
-| 🥇 **4x PIT Award winner** | Internal innovation program at Grupo Hi — recognized across 5 projects |
+| 🥇 **5x PIT Award winner** | Internal innovation program at Grupo Hi — recognized across 5 projects |
 | ⚙️ **5 internal systems built** | HiFolha · HiConcilia · HiCNPJ · HiPagar · HiBB — automating critical financial workflows |
 | 🔗 **External API integrations** | Omie ERP · Banco do Brasil — increasing data consistency and eliminating rework |
 | 💰 **~90% cost reduction** | Automated medical billing at a healthcare clinic via custom XML system, removing outsourcing entirely |
