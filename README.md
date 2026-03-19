@@ -1,49 +1,80 @@
-
 # Matheus Lima 🇧🇷
-> Hello World! Welcome to my GitHub!👋 In my career transition from finance to software development, I apply analytical and business vision to create efficient and secure solutions. ;) <br>
-> Software Developer ◦ Backend (.NET, C#, Ruby on Rails, Node.js) ◦ Frontend (React, Next.js, TailwindCSS)
 
-<hr>
+> **Full-Stack Developer** with a background in finance & business operations.  
+> I don't just write code — I build solutions that solve real problems and generate measurable impact.
 
-## 😸 About me:
-- 🎓I'm currently pursuing a Bachelor's degree in Software Engineering at Gran Faculdade (2025–2029), with a focus on backend and full stack development;
-- 💼 My previous experience in finance helped me develop strong analytical skills, attention to business rules, and concern for system reliability;
-- 🚀 I'm seeking my first formal opportunity as a developer, applying my technical foundation to real projects, focusing on REST APIs, integrations, automations, and coding best practices;
-- 🧠 I'm driven by solving real problems with technology, reducing operational costs, eliminating rework, and creating systems that add business value.
+---
 
-## 🧑‍💻 My Skills:
-```csharp
-public class MatheusLimaSkills
-{
-    public string Username => "matheuslm7";
-    public string Name => "Matheus Lima";
-    public string[] Roles => new[] { "Software Developer", "Backend (.NET)", "C#" };
-    public string[] Code => new[] { "C#", ".NET", "Ruby on Rails", "Node.js", "Python", "JavaScript", "TypeScript" };
-    public string[] Frontend => new[] { "React", "React Native", "Next.js", "TailwindCSS" };
-    public string[] Tools => new[] { "Git", "Firebase", "Vercel", "Expo", "OpenSSL", "REST APIs", "Docker" };
-    public string[] Database => new[] { "SQL Server", "MySQL", "PostgreSQL", "SQLite", "MongoDB" };
-    public string[] Languages => new[] { "Portuguese (Native)", "English (Intermediate)", "Spanish (Basic)" };
-    public string[] CurrentlyLearning => new[] { "Software Architecture", "Automated Testing", "Entity Framework", "Clean Architecture" };
-    
-    public void SayHi()
-    {
-        Console.WriteLine("Hello! I'm always learning and applying knowledge in practical projects. Let's build something together? ;)");
-    }
-}
+## 💼 Currently
 
-var me = new MatheusLimaSkills();
-me.SayHi();
-```
+**Desenvolvedor Full Stack @ [Grupo Hi S/A](https://www.linkedin.com/company/grupohisa)**  
+Working across frontend & backend — React, Next.js, React Native, Electron, Ruby on Rails, PostgreSQL.  
+Clean code · RSpec · CI/CD with GitLab · Business-driven development.
 
-## 👤 My contacts:
-> Let's talk about technology, career, opportunities, or just exchange ideas! 😊
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/matheuslm7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheuslima@duck.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
 
-<hr>
+## 🚀 Highlights
 
-<div align="center">  
-  <em>clean code, clear solution, real result.</em>
-</div>
+- 🏆 **4x winner of the PIT** (Programa de Ideias que Transformam) at Grupo Hi — awarded for 5 internal systems that automated critical financial processes
+- ⚙️ Built **HiFolha, HiConcilia, HiCNPJ, HiPagar, HiBB** — integrating internal platforms with external APIs (Omie, Banco do Brasil)
+- 💰 Reduced operational costs by **~90%** at a healthcare clinic by automating medical billing through a custom XML-based system — eliminating outsourcing entirely
+- 🤖 Built a bot capable of processing **300+ medical records per cycle** with accuracy and speed
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Studying
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## 🎓 Education
+
+- 🖥️ **B.S. in Software Engineering** — Gran Faculdade (2025–2029)
+- 📊 **B.S. in Business Administration** — Faculdade Internacional da Paraíba (2023–2027)
+
+---
+
+## 🌎 Languages
+
+🇧🇷 Portuguese — Native &nbsp;|&nbsp; 🇺🇸 English — Intermediate &nbsp;|&nbsp; 🇪🇸 Spanish — Basic
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslm7/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdlima21@gmail.com)
+
+---
+
+*clean code · real impact · business-driven development.*
