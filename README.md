@@ -7,7 +7,7 @@
 *Full-Stack Developer with a background in finance and business operations — I've automated critical workflows, built 5 internal systems currently in production at Grupo Hi.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslm7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdlima21@gmail.com)
+[![E-mail](https://img.shields.io/badge/%40-mail-blue)](mailto:matheusdlima21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuslm7)
 
 </div>
