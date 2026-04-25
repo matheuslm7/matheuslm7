@@ -2,7 +2,7 @@
 
 # Matheus Lima
 
-### Full-Stack Developer · Finance & Business Background
+### Full-Stack & Mobile Developer · Finance & Business Background
 
 *Full-Stack Developer with a background in finance and business operations — I've automated critical workflows, built 5 internal systems currently in production at Grupo Hi.*
 
@@ -20,7 +20,7 @@ I'm a Full-Stack Developer currently working at **Grupo Hi S/A**, building inter
 
 What sets me apart: before becoming a developer, I spent years working in **finance and business operations** — which means I understand the business impact behind every feature I ship. I don't just implement requirements, I question whether they're the right ones.
 
-- 🏢 **Currently:** Full-Stack Developer @ Grupo Hi S/A — Rails · Next.js · React Native · Electron · Typescript · Gitlab  · CI/CD
+- 🏢 **Currently:** Full-Stack & Mobile Developer @ Grupo Hi S/A — Ruby on Rails | Golang | React.js | React Native | Java | Spring Boot 
 - 🎓 **Studying:** B.S. in Software Engineering — Gran Faculdade (2025–2029)
 - 📍 **Based in:** João Pessoa, Brazil — open to remote and relocation
 - 🌎 **Goal:** International and national opportunities in backend & full-stack roles
@@ -45,12 +45,13 @@ What sets me apart: before becoming a developer, I spent years working in **fina
 
 ### Backend
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend & Mobile
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -65,7 +66,7 @@ What sets me apart: before becoming a developer, I spent years working in **fina
 ### Currently Expanding
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
