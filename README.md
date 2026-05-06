@@ -25,10 +25,9 @@ I'm a Full-Stack Developer currently working at **Grupo Hi S/A**, building inter
 
 What sets me apart: before becoming a developer, I spent years working in **finance and business operations** — which means I understand the business impact behind every feature I ship. I don't just implement requirements, I question whether they're the right ones.
 
-- 🏢 **Currently:** Full-Stack & Mobile Developer @ Grupo Hi S/A — Ruby on Rails | Golang | React.js | React Native | Java | Spring Boot 
+- 🏢 **Currently:** Full-Stack & Mobile Developer @ Grupo Hi S/A —  Golang | Ruby on Rails | React.js | React Native | Java | Spring Boot 
 - 🎓 **Studying:** B.S. in Software Engineering — Gran Faculdade (2025–2029)
-- 📍 **Based in:** João Pessoa, Brazil — open to remote and relocation
-- 🌎 **Goal:** International and national opportunities in backend & full-stack roles
+- 📍 **Based in:** João Pessoa, Brazil
 
 ---
 
